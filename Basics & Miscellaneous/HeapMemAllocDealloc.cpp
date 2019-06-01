@@ -12,7 +12,7 @@ int main() {
     */
 
     int *P = new int[10];
-    for(int i = 0, i < 10; ++i)
+    for(int i = 0; i < 10; ++i)
         P[i] = i;
     
     /*
@@ -35,7 +35,7 @@ int main() {
     delete[] P; P = Q;  Q = nullptr;
     
     for(int i = 0; i < 20; ++i)
-        cout << P[i] << endl;
+        cout << P[i] << " ";
     // After 10 elements, we might see some garbage values, as only 10 elements are assigned properly.
 
     return 0;
