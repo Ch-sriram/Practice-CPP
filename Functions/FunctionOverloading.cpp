@@ -44,3 +44,9 @@ int main() {
 
     return 0;
 }
+
+
+/*
+    Output:
+        15 17 38.543
+*/
