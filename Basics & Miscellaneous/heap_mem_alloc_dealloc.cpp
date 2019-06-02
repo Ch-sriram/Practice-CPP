@@ -18,13 +18,13 @@ int main() {
     /*
         Now, if we want, we can assign P, to a new array created in the Heap,
         But if we do that, the old array's reference will be lost, and that will
-        create a Memory Leak & we don't want that. Therefore, we Deaalocate the memory
+        create a Memory Leak & we don't want that. Therefore, we Deallocate the memory
         pointed by P, and then, assign the new array to P.
 
         Note: If we don't want to copy the older array's values to the new array, then we can do so by writing the following code:
                                 delete[] P;
                                 P = new int[20];
-                                for(int i = i < 20; ++i)
+                                for(int i = 0; i < 20; ++i)
                                     cout << P[i] << endl;
     */
 
