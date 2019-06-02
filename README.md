@@ -13,3 +13,4 @@ Contains the C++ topics &amp; their implementation that I don't know of (or, I'm
    4. Referencing (Aliasing) & lvalue, rvalue: [reference_variable.cpp](https://github.com/Ch-sriram/Practice-CPP/blob/master/Basics%20%26%20Miscellaneous/reference_variable.cpp) 
 2. Functions
    1. Function Overloading: [function_overloading.cpp](https://github.com/Ch-sriram/Practice-CPP/blob/master/Functions/function_overloading.cpp)
+   2. Function Template: [function_template.cpp](https://github.com/Ch-sriram/Practice-CPP/blob/master/Functions/function_template.cpp)
