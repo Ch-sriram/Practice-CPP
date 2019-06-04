@@ -19,3 +19,4 @@ Contains the C++ topics &amp; their implementation that I don't know of (or, I'm
 3. Object Oriented Programming
    1. **class** & Object: [rectangle_class.cpp](https://github.com/Ch-sriram/Practice-CPP/blob/master/Object%20Oriented%20Programming/rectangle_class.cpp)
    2. Object Declaration in the Stack & Heap Area: [object_heap_stack.cpp](https://github.com/Ch-sriram/Practice-CPP/blob/master/Object%20Oriented%20Programming/object_heap_stack.cpp)
+   3. Data Hiding using Accessors & Mutators: [accessors_mutators.cpp](https://github.com/Ch-sriram/Practice-CPP/blob/master/Object%20Oriented%20Programming/accessors_mutators.cpp)
