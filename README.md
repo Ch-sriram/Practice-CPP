@@ -16,3 +16,5 @@ Contains the C++ topics &amp; their implementation that I don't know of (or, I'm
    2. Function Template: [function_template.cpp](https://github.com/Ch-sriram/Practice-CPP/blob/master/Functions/function_template.cpp)
    3. Default Arguments: [default_arguments.cpp](https://github.com/Ch-sriram/Practice-CPP/blob/master/Functions/default_arguments.cpp)
    4. Return by Reference: [return_by_reference.cpp](https://github.com/Ch-sriram/Practice-CPP/blob/master/Functions/return_by_reference.cpp)
+3. Object Oriented Programming
+   1. **class** & Object: [rectangle_class.cpp](https://github.com/Ch-sriram/Practice-CPP/blob/master/Object%20Oriented%20Programming/rectangle_class.cpp)
