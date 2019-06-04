@@ -18,3 +18,4 @@ Contains the C++ topics &amp; their implementation that I don't know of (or, I'm
    4. Return by Reference: [return_by_reference.cpp](https://github.com/Ch-sriram/Practice-CPP/blob/master/Functions/return_by_reference.cpp)
 3. Object Oriented Programming
    1. **class** & Object: [rectangle_class.cpp](https://github.com/Ch-sriram/Practice-CPP/blob/master/Object%20Oriented%20Programming/rectangle_class.cpp)
+   2. Object Declaration in the Stack & Heap Area: [object_heap_stack.cpp](https://github.com/Ch-sriram/Practice-CPP/blob/master/Object%20Oriented%20Programming/object_heap_stack.cpp)
