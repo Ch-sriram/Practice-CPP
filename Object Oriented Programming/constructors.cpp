@@ -40,6 +40,15 @@ public:
         breadth = b;
     }
 
+    /* 
+        We can remove the Non-Parameterized constructor, by passing default arguments to Parameterized constructor as follows:
+        Rectangle(int l = 0, int b = 0) {
+            length = l;
+            breadth = b;
+        }
+        We can see that, now we don't need the Non-Parameterized Constructor, we can simply use the Parameterized Constructor.
+    */
+
     // Copy Constructor:
     Rectangle(Rectangle& r) {
         length = r.length;
