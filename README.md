@@ -21,3 +21,4 @@ Contains the concept, code & implementation of C++ topics.
    2. Object Declaration in the Stack & Heap Area: [object_heap_stack.cpp](https://github.com/Ch-sriram/Practice-CPP/blob/master/Object%20Oriented%20Programming/object_heap_stack.cpp)
    3. Data Hiding using Accessors & Mutators: [accessors_mutators.cpp](https://github.com/Ch-sriram/Practice-CPP/blob/master/Object%20Oriented%20Programming/accessors_mutators.cpp)
    4. Constructors (Default, Parameterized, Non-Parameterized & Copy Constructors): [constructors.cpp](https://github.com/Ch-sriram/Practice-CPP/blob/master/Object%20Oriented%20Programming/constructors.cpp)
+   5. Deep Copy Constructor: [deep_copy_constructor.cpp](https://github.com/Ch-sriram/Practice-CPP/blob/master/Object%20Oriented%20Programming/deep_copy_constructor.cpp)
