@@ -22,3 +22,5 @@ Contains the concept, code & implementation of C++ topics.
    3. Data Hiding using Accessors & Mutators: [accessors_mutators.cpp](https://github.com/Ch-sriram/Practice-CPP/blob/master/Object%20Oriented%20Programming/accessors_mutators.cpp)
    4. Constructors (Default, Parameterized, Non-Parameterized & Copy Constructors): [constructors.cpp](https://github.com/Ch-sriram/Practice-CPP/blob/master/Object%20Oriented%20Programming/constructors.cpp)
    5. Deep Copy Constructor: [deep_copy_constructor.cpp](https://github.com/Ch-sriram/Practice-CPP/blob/master/Object%20Oriented%20Programming/deep_copy_constructor.cpp)
+   6. Types of Functions: [types_of_functions.h](https://github.com/Ch-sriram/Practice-CPP/blob/master/Object%20Oriented%20Programming/types_of_functions.h)
+   7. Scope Resolution Operator: [scope_resolution_operator.cpp](https://github.com/Ch-sriram/Practice-CPP/blob/master/Object%20Oriented%20Programming/scope_resolution_operator.cpp)

@@ -82,6 +82,12 @@ int main() {
     Rectangle *r3 = new Rectangle(40,50);
     r3->to_string();
 
+    Rectangle *r4 = new Rectangle(40,40);
+    cout << "Is this Rectangle a Square? ";
+    string ans = r4->is_square() ? "Yes" : "No";
+    cout << ans << "\n";
+    r4->to_string();
+
     return 0;
 }
 
@@ -97,5 +103,9 @@ Area: 200, Perimeter: 60
 
 Length: 40, Breadth: 50
 Area: 2000, Perimeter: 180
+
+Is this Rectangle a Square? Yes
+Length: 40, Breadth: 40
+Area: 1600, Perimeter: 160
 
 */
