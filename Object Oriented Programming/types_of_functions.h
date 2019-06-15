@@ -23,7 +23,7 @@ public:
     // Constructors:
     Rectangle();
     Rectangle(int, int);
-    Rectangle(Rectangle&);    
+    Rectangle(Rectangle*);    
     
     // Mutators:
     void set_length(int);
@@ -36,6 +36,7 @@ public:
     // Facilitators:
     int area(void);
     int perimeter(void);
+    void to_string(void);
 
     // Enquirers:
     bool is_square(void);
