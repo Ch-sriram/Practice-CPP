@@ -25,3 +25,6 @@ Contains the concept, code & implementation of C++ topics.
    6. Types of Functions: [types_of_functions.h](https://github.com/Ch-sriram/Practice-CPP/blob/master/Object%20Oriented%20Programming/types_of_functions.h)
    7. Scope Resolution Operator: [scope_resolution_operator.cpp](https://github.com/Ch-sriram/Practice-CPP/blob/master/Object%20Oriented%20Programming/scope_resolution_operator.cpp)
    8. Inline Function: [inline_function.cpp](https://github.com/Ch-sriram/Practice-CPP/blob/master/Object%20Oriented%20Programming/inline_function.cpp)
+   
+   
+This is an update from GitHub Website.
